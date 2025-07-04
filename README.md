@@ -14,7 +14,7 @@ A simple and fun web-based Rock Paper Scissors game built with HTML, CSS, and Ja
 
 ## Demo
 
-👉 [Play Now](https://aditya-narayan-dalai.github.io/Rock-Paper-Scissors/)
+👉 [Play Now](https://aditya-dalai.github.io/Rock-Paper-Scissors/)
 ![Rock Paper Scissors Gif](https://github.com/user-attachments/assets/23229ddb-b354-4611-ac7e-78187711c6fd)
 
 
