@@ -37,7 +37,7 @@ A simple and fun web-based Rock Paper Scissors game built with HTML, CSS, and Ja
 ## 🙋‍♂️ Author
 
 **Aditya Dalai**  
-🔗 [LinkedIn](https://linkedin.com/adityadalai)  
+🔗 [LinkedIn](https://www.linkedin.com/in/adityadalai/) 
 🧠 Passionate about building clean, fun, and interactive web apps.
 
 
